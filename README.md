@@ -3,7 +3,7 @@
 
 ![gkevinb's github stats](https://github-readme-stats.vercel.app/api?username=gkevinb&show_icons=true&hide_border=true)
 <a href="https://github.com/gkevinb">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkevinb&hide=java,html&title_color=fffff&text_color=000000&icon_color=2bbc8a&bg_color=ffffff" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkevinb&layout=compact&title_color=fffff&text_color=000000&icon_color=2bbc8a&bg_color=ffffff" />
 </a>
 
 <p style="text-align:right;"><img src="https://komarev.com/ghpvc/?username=gkevinb" alt="counter" /></p>
