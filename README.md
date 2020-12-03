@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![gkevinb's github stats](https://github-readme-stats.vercel.app/api?username=gkevinb)](https://github.com/gkevinb)
 
 ![gkevinb's github stats](https://github-readme-stats.vercel.app/api?username=gkevinb&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
